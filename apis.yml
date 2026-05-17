@@ -5,7 +5,7 @@ description: >-
   components and products including investment castings, forgings, and fasteners
   and structurals for aerospace and industrial gas turbine markets. The company
   is owned by Berkshire Hathaway.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Aerospace
