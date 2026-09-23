@@ -1,7 +1,9 @@
 ---
 title: Warren Buffett's Berkshire Hathaway buys Precision ...
 url: https://www.bbc.com/news/business-33849164
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Precision Castparts" press release artificial intelligence'
 position: 4
 source: serpapi-google
